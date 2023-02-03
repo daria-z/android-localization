@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тестируем локализацию</string>
+    <string name="title">Сладкая рисовая каша</string>
+    <string name="prep_time">10 минут</string>
+    <string name="total_time">15 минут</string>
+    <string name="ingredients_title">Ингридиенты</string>
+    <string name="ingredients">1 чашка готового риса; 1 1/4 чашки молока; 2 финика, очищенные и крупно нарезанные; Щепотка корицы; Соль; Ягоды, яблоко, мендаль и мёд</string>
+    <string name="directions_title">Инструкции по приготовлению</string>
+    <string name="directions">В кастрюли положите рис, молоко, финики, корицу и щепотку соли. Смешайте. Доведите до кипения и убавте огонь. Варить до кремообразного состояния, 5-7 минут. Подавать, украшенную ягодами, яблоками и миндалём. Добавить пару капель мёда</string>
+</resources>
